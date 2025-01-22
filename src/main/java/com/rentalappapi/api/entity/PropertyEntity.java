@@ -3,7 +3,7 @@ package com.rentalappapi.api.entity;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "satya_properties")
+@Table(name = "your table name")
 public class PropertyEntity {
 
 	@Id
