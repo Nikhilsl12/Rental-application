@@ -52,5 +52,4 @@ The project is structured as follows:
 - **Database:** MySQL for data storage
 - **Authentication:** Spring Security for secure user authentication and authorization
 - **API:** RESTful APIs for communication between frontend and backend
-- **Frontend:** React
 
